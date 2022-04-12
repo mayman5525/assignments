@@ -19,7 +19,7 @@
 ## Supported payment methods:
   - Paypal
   - Visa
-  - Crypto Currany : our wallet xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  - Crypto Currany : our wallet (xxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 ## Notes:
   - The home page must show the best sellers and preferable products for users depending on users search history or whatever the method :).
   - Users can report a spam of any user that provide fake prices or break our term of condtions.
